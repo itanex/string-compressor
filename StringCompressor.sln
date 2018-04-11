@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCompressor", "StringCompressor\StringCompressor.csproj", "{F88B4F13-56A8-4397-82F6-B575180630FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F88B4F13-56A8-4397-82F6-B575180630FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88B4F13-56A8-4397-82F6-B575180630FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88B4F13-56A8-4397-82F6-B575180630FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88B4F13-56A8-4397-82F6-B575180630FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C38075A1-EBFC-4FA1-A4DA-688B15AF5F9F}
+	EndGlobalSection
+EndGlobal
